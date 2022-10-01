@@ -1,0 +1,13 @@
+[metadata]
+name = "ExampleProject"
+authors = [
+    "Rylan Yancey",
+    "Matt Sutton"
+]
+creation_date = "October 1st, 2022"
+
+[config]
+img_path = "cover.png"
+exec_path = "TestProject.exe"
+scores_path = "scores.csv" # [Optional]
+volume = 100 # 0 - 255 [Optional]
